@@ -26,4 +26,4 @@ Resources
 *********
 
 -  `Codeigniter 3.1.11 <https://codeigniter.com>`_
--  `SB Admin 2 https://startbootstrap.com/theme/sb-admin-2`_
+-  `SB Admin 2 <https://startbootstrap.com/theme/sb-admin-2>`_
